@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#SALHI FATMA _ SADOUN AMEL SIQ2
 # View the original Kleopatra S/MIME certificate request file (.p10) in readable text form.
 # The request is in DER format, so -inform DER is required.
 openssl req -inform DER -in certs/eden_kleo.p10 -text -noout
